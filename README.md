@@ -6,8 +6,6 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/11VtWGeH3deUO-q0YGvlH_DuLKoewaGQD
-
 Example: <img src=".\example.png">
 
 ## Run Locally
